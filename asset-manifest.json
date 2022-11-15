@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactCVV/static/css/main.a4628aa6.css",
+    "main.js": "/ReactCVV/static/js/main.8c2364e1.js",
+    "index.html": "/ReactCVV/index.html",
+    "main.a4628aa6.css.map": "/ReactCVV/static/css/main.a4628aa6.css.map",
+    "main.8c2364e1.js.map": "/ReactCVV/static/js/main.8c2364e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4628aa6.css",
+    "static/js/main.8c2364e1.js"
+  ]
+}
